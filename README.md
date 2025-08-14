@@ -31,7 +31,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
     * PyCharm Community Edition
     * Jupyter Lab  
 
-### [Clase 1] 
+### Clase 1 
 * Introducción a la Materia
 * Estructura y entorno computacional- Hardware y software
 
