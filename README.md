@@ -1,5 +1,5 @@
 # Fundamentos-de-informatica
-Repositorio de con cátedra Fundamenteos de informática. UTN FRVM - Ing. Civíl
+Repositorio de la cátedra Fundamenteos de informática. UTN FRVM - Ing. Civíl
 
 
 
