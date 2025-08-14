@@ -21,7 +21,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Librerías
     * Matplotlib
     * Numpy
-	  * Pandas
+	* Pandas
 * Consola Interactiva de Python 
     * IPython
 * Herramientas
