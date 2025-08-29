@@ -33,7 +33,15 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ### Clase 1 
 * Introducción a la Materia
-* Estructura y entorno computacional- Hardware y software
+* Estructura y entorno computacional- Hardware 
+
+### Clase 2 
+* Estructura y entorno computacional- Software
+* Introducción al procesador de texto - Microsoft Word
+
+### Clase 3 
+* Procesador de texto - Microsoft Word. Funciones adicionales
+* Introducción a planillas de cálculo - Microsoft Excel
 
 
 
