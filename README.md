@@ -30,6 +30,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
     * Visual Studio Code
     * PyCharm Community Edition
     * Jupyter Lab  
+    * Sublime Text
 
 ### Clase 1 
 * Introducción a la Materia
@@ -43,6 +44,16 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Procesador de texto - Microsoft Word. Funciones adicionales
 * Introducción a planillas de cálculo - Microsoft Excel
 
+### Clase 5
+* Planilla de cálculo. Ejercicios en clase
+
+### Clase 5
+* Planilla de cálculo. Dataset y origenes de datos. 
+* Datos desde archivos .csv, txt, json, xml
+* Vinculación entre datos de hojas de cálculo. Conexión con Google Sheets
+* Bases de datos
+* Apis.
+* Introducción a Macros.
 
 
 
