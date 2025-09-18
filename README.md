@@ -44,10 +44,16 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Procesador de texto - Microsoft Word. Funciones adicionales
 * Introducción a planillas de cálculo - Microsoft Excel
 
+### Clase 4
+* Planilla de cálculo. Presentación
+* Formulas, gráficos, tablas
+* Formatos condicionales
+* Ejercicios en clase
+
 ### Clase 5
 * Planilla de cálculo. Ejercicios en clase
 
-### Clase 5
+### Clase 6
 * Planilla de cálculo. Dataset y origenes de datos. 
 * Datos desde archivos .csv, txt, json, xml
 * Vinculación entre datos de hojas de cálculo. Conexión con Google Sheets
@@ -55,6 +61,11 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Apis.
 * Introducción a Macros.
 
-
+### Clase 7
+* Macros.
+* Introducción a VBS
+* Grabación de macros
+* Formularios
+* Ejemplos
 
 Este material es de libre acceso para uso educativo. Se prohíbe su uso con fines comerciales sin autorización del autor.
