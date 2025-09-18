@@ -68,4 +68,4 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Formularios
 * Ejemplos
 
-Este material es de libre acceso para uso educativo. Se prohíbe su uso con fines comerciales sin autorización del autor.
+
