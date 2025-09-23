@@ -1,6 +1,6 @@
 # Fundamentos-de-informatica
 
-Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para la cátedra Fundamenteos de informática. UTN FRVM - Ing. Civíl
+Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para la cátedra Fundamentos de informática. UTN FRVM - Ing. Civíl
 
 
 ### Organización del Repositorio
