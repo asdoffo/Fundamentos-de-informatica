@@ -69,3 +69,17 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Ejemplos
 
 
+
+
+
+
+
+
+## Links de interes:
+
+* Python in civil engineering
+https://www.linkedin.com/pulse/python-civil-engineering-samuel-williams-ycv6e
+
+* Essential Python Packages for Civil Engineers
+https://civils.ai/blog/essential-python-packages-for-civil-engineers-2
+
