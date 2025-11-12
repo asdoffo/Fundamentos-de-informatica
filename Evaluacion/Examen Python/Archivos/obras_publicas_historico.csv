@@ -1,0 +1,31 @@
+año,tipo_obra,nombre_proyecto,presupuesto_millones,duracion_meses,contratista,estado,beneficiarios,barrio
+2010,Pavimentación,Repavimentación Bv. Sarmiento,12.5,6,Construcciones VM SA,Finalizada,15000,Centro
+2010,Cloacas,Red cloacal Barrio Sur,8.3,8,Hidráulica Regional,Finalizada,3500,Sur
+2011,Desagües,Canal colector Este,15.7,10,Obras Civiles SRL,Finalizada,8000,Este
+2011,Pavimentación,Asfalto Barrio Norte,9.8,5,Vial Centro,Finalizada,4200,Norte
+2012,Puente,Puente peatonal Universidad,4.2,4,Metalúrgica VM,Finalizada,5000,Centro
+2012,Iluminación,LED Av. Universidad,3.6,3,Electro Sur,Finalizada,12000,Centro
+2013,Pavimentación,Cordón cuneta Oeste,11.2,7,Construcciones VM SA,Finalizada,6500,Oeste
+2013,Plaza,Remodelación Plaza Centenario,2.8,4,Espacios Verdes SRL,Finalizada,10000,Centro
+2014,Cloacas,Ampliación red Sur,13.4,9,Hidráulica Regional,Finalizada,4800,Sur
+2014,Desagües,Sistema pluvial Norte,18.9,12,Obras Civiles SRL,Finalizada,9500,Norte
+2015,Pavimentación,Bacheo integral,7.5,6,Vial Centro,Finalizada,25000,Todos
+2015,Ciclovía,Ciclovía Costanera,5.1,5,Construcciones VM SA,Finalizada,8000,Centro
+2016,Puente,Reparación puente Viejo,8.7,6,Estructuras SA,Finalizada,20000,Centro
+2016,Iluminación,Luminarias Barrio Este,4.3,4,Electro Sur,Finalizada,5500,Este
+2017,Pavimentación,Avenida Circunvalación,22.5,14,Vial Provincial,Finalizada,35000,Todos
+2017,Plaza,Parque del Oeste,6.8,8,Espacios Verdes SRL,Finalizada,7000,Oeste
+2018,Cloacas,Colector principal,25.3,16,Aguas Provinciales,Finalizada,45000,Todos
+2018,Desagües,Entubamiento arroyo,19.6,11,Hidráulica Regional,Finalizada,12000,Sur
+2019,Pavimentación,Acceso Norte,16.4,9,Vial Centro,Finalizada,18000,Norte
+2019,Edificio,Centro de Salud Este,12.8,10,Construcciones VM SA,Finalizada,6000,Este
+2020,Iluminación,Renovación LED centro,8.9,6,Electro Sur,Finalizada,20000,Centro
+2020,Plaza,Plaza Barrio Sur,3.2,5,Espacios Verdes SRL,Finalizada,4000,Sur
+2021,Pavimentación,Repavimentación Italia,14.7,7,Vial Centro,Finalizada,16000,Centro
+2021,Cloacas,Extensión red Oeste,11.5,8,Hidráulica Regional,Finalizada,5200,Oeste
+2022,Puente,Puente vehicular Rio,45.6,24,Consorcio Puentes,En ejecución,50000,Todos
+2022,Desagües,Reservorios urbanos,28.3,18,Obras Civiles SRL,En ejecución,30000,Todos
+2023,Pavimentación,Plan 100 cuadras,35.8,15,Vial Provincial,En ejecución,25000,Todos
+2023,Edificio,Terminal de ómnibus,38.9,20,Construcciones VM SA,En ejecución,60000,Centro
+2024,Ciclovía,Red de ciclovías,12.4,10,Urbanismo Moderno,Proyectada,15000,Todos
+2024,Iluminación,Smart City iluminación,15.7,12,Tech Urbana,Proyectada,80000,Todos

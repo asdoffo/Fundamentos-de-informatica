@@ -1,0 +1,31 @@
+origen,destino,distancia_km,tiempo_normal_min,tiempo_pico_min,costo_combustible,tipo_vehiculo,carga_maxima_ton,ruta
+Planta Hormigón,Obra Puente,5.3,12,18,85,Mixer,8,Ruta directa por Av. Costanera
+Planta Hormigón,Obra Centro,3.2,8,15,51,Mixer,8,Por Bv. Sarmiento
+Planta Hormigón,Obra Norte,7.8,16,24,125,Mixer,8,Por circunvalación
+Corralón Central,Obra Puente,2.1,6,11,34,Camión,15,Por calle San Martín
+Corralón Central,Obra Centro,1.5,5,9,24,Camión,15,Directo por centro
+Corralón Central,Obra Norte,6.4,14,20,102,Camión,15,Por Av. Universidad
+Aceros Centro,Obra Puente,8.7,18,27,139,Camión,20,Por Ruta Provincial 2
+Aceros Centro,Obra Centro,6.9,15,22,110,Camión,20,Por Bv. Italia
+Aceros Centro,Obra Norte,4.3,10,16,69,Camión,20,Por zona industrial
+Cantera Sur,Obra Puente,12.4,24,32,198,Camión,25,Por Ruta Provincial 4
+Cantera Sur,Obra Centro,14.2,28,38,227,Camión,25,Por camino rural + Bv. Sarmiento
+Cantera Sur,Obra Norte,10.8,22,29,173,Camión,25,Por camino alternativo
+Depósito Municipal,Obra Puente,3.5,9,14,56,Camioneta,2,Por calles internas
+Depósito Municipal,Obra Centro,2.8,7,12,45,Camioneta,2,Por microcentro
+Depósito Municipal,Obra Norte,5.6,13,19,90,Camioneta,2,Por Av. Universidad
+Premoldeados VM,Obra Puente,6.2,14,20,99,Camión Grúa,12,Por Av. Industrial
+Premoldeados VM,Obra Centro,7.1,16,23,114,Camión Grúa,12,Por Bv. Italia
+Premoldeados VM,Obra Norte,3.9,10,15,62,Camión Grúa,12,Directo por zona norte
+Ferretería Industrial,Obra Puente,7.3,15,22,117,Furgón,3,Por calles secundarias
+Ferretería Industrial,Obra Centro,5.5,12,18,88,Furgón,3,Por centro
+Ferretería Industrial,Obra Norte,4.2,10,14,67,Furgón,3,Por barrios
+Obra Puente,Planta Tratamiento,9.5,19,28,152,Camión Volquete,18,Para escombros
+Obra Centro,Planta Tratamiento,11.2,22,32,179,Camión Volquete,18,Para escombros
+Obra Norte,Planta Tratamiento,7.8,16,23,125,Camión Volquete,18,Para escombros
+Córdoba Capital,Obra Puente,145,120,135,2320,Camión Especial,30,Por Autopista
+Córdoba Capital,Obra Centro,143,118,133,2288,Camión Especial,30,Por Autopista
+Córdoba Capital,Obra Norte,147,122,137,2352,Camión Especial,30,Por Autopista
+Rosario,Obra Puente,165,140,155,2640,Camión Especial,30,Por Ruta Nacional 9
+Rosario,Obra Centro,163,138,153,2608,Camión Especial,30,Por Ruta Nacional 9
+Rosario,Obra Norte,167,142,157,2672,Camión Especial,30,Por Ruta Nacional 9
